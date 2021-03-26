@@ -1,6 +1,6 @@
 ![alt text](https://i.imgur.com/C6JMKeQ.png)
 # Maggots' Overhauled Portraits
-If you choose to disable the 3D Status portraits, you're greeted by crusty, old renders of the 9 classes, some are even from the beta of the game. Out of frustration, I decided to remake the small pictures of the classes.
+If you choose to disable the 3D Status portraits, you're greeted by crusty, old renders of the 9 classes, some are even from the beta of the game. Out of frustration, I decided to remake the outdated art assets of the classes.
 ## "Wait, so what does this do?"
 It basically replaces the old, [crusty small pictures of the 9 classes, and replaces them with new, up to date counterparts rendered in SFM.](https://i.imgur.com/kYUXANC.jpg)
 ## "How does one install this?"
